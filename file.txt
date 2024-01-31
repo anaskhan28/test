@@ -1,1 +1,3 @@
-hello Anas
+hello Anas Khan
+
+Welcome to the workshop Day 2!
